@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEF8FF,50:BFE8FF,100:70C7FF&height=220&section=header&text=PRATHMESH%20TIWARI&fontSize=58&fontColor=075985&fontAlignY=40&desc=CODE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20GAMING&descAlignY=64&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:071A3D,50:0B2F4F,75:075985,100:0EA5E9&height=220&section=header&text=PRATHMESH%20TIWARI&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=CODE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20GAMING&descAlignY=64&descSize=17&descColor=BFE8FF&animation=fadeIn" width="100%"/>
 
 <br/>
 
