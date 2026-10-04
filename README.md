@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://github.com/PrathmeshhTiwari.png" width="145" alt="Prathmesh Tiwari"/>
+<img src="https://github.com/iprathmeshtiwari.png" width="145" alt="Prathmesh Tiwari"/>
 
 <br/><br/>
 
@@ -18,9 +18,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PrathmeshhTiwari&color=0284C7&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=iprathmeshtiwari&color=0284C7&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/PrathmeshhTiwari?style=for-the-badge&color=38BDF8&labelColor=E0F2FE&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/iprathmeshtiwari?style=for-the-badge&color=38BDF8&labelColor=E0F2FE&label=FOLLOWERS"/>
 
 </div>
 
@@ -251,15 +251,15 @@ Bug Bounty
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrathmeshhTiwari&show_icons=true&theme=default&bg_color=F8FCFF&border_color=7DD3FC&title_color=0284C7&icon_color=0284C7&text_color=334155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iprathmeshtiwari&show_icons=true&theme=default&bg_color=F8FCFF&border_color=7DD3FC&title_color=0284C7&icon_color=0284C7&text_color=334155"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshhTiwari&layout=compact&theme=default&bg_color=F8FCFF&border_color=7DD3FC&title_color=0284C7&text_color=334155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprathmeshtiwari&layout=compact&theme=default&bg_color=F8FCFF&border_color=7DD3FC&title_color=0284C7&text_color=334155"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=PrathmeshhTiwari&theme=default&background=F8FCFF&border=7DD3FC&ring=0284C7&fire=38BDF8&currStreakLabel=0284C7&sideLabels=0284C7&dates=64748B&sideNums=334155&currStreakNum=0284C7"/>
+<img src="https://streak-stats.demolab.com?user=iprathmeshtiwari&theme=default&background=F8FCFF&border=7DD3FC&ring=0284C7&fire=38BDF8&currStreakLabel=0284C7&sideLabels=0284C7&dates=64748B&sideNums=334155&currStreakNum=0284C7"/>
 
 </div>
 
