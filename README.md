@@ -1,36 +1,26 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    BLUE AURORA HEADER                     -->
+<!--                    BLUE DIGITAL ARCADE                     -->
 
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:071A3D,100:0A2A5E&height=210&section=header&text=PRATHMESH%20TIWARI&fontSize=58&fontColor=8DD8FF&fontAlignY=43&desc=SOFTWARE%20%7C%20SYSTEMS%20%7C%20CYBERSECURITY&descAlignY=65&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEF8FF,50:BFE8FF,100:70C7FF&height=220&section=header&text=PRATHMESH%20TIWARI&fontSize=58&fontColor=075985&fontAlignY=40&desc=CODE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20GAMING&descAlignY=64&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
-
-<!-- PROFILE -->
 
 <img src="https://github.com/PrathmeshhTiwari.png" width="145" alt="Prathmesh Tiwari"/>
 
 <br/><br/>
 
-<!-- STATUS -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=800&color=69CFFF&center=true&vCenter=true&multiline=true&width=850&height=90&lines=BCA+Student+%E2%80%A2+Tech+Enthusiast;C+%E2%80%A2+C%2B%2B+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+Linux;Exploring+Cybersecurity+%E2%80%A2+Ethical+Hacking+%E2%80%A2+Bug+Bounty;BUILDING+MY+WAY+THROUGH+THE+DIGITAL+WORLD." alt="Typing Animation"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=PrathmeshhTiwari&color=4DBFFF&style=for-the-badge&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/PrathmeshhTiwari?style=for-the-badge&color=4DBFFF&labelColor=020617&label=FOLLOWERS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=800&color=0284C7&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi%2C+I'm+Prathmesh+Tiwari+%F0%9F%91%8B;BCA+Student+%E2%80%A2+Tech+Enthusiast;C+%E2%80%A2+C%2B%2B+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+Linux;Exploring+Cybersecurity+%E2%80%A2+Ethical+Hacking+%E2%80%A2+Bug+Bounty" alt="Typing Animation"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-69CFFF?style=flat-square&labelColor=020617"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-69CFFF?style=flat-square&labelColor=020617"/>
-<img src="https://img.shields.io/badge/MINDSET-CURIOUS-69CFFF?style=flat-square&labelColor=020617"/>
+<img src="https://komarev.com/ghpvc/?username=PrathmeshhTiwari&color=0284C7&style=for-the-badge&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/PrathmeshhTiwari?style=for-the-badge&color=38BDF8&labelColor=E0F2FE&label=FOLLOWERS"/>
 
 </div>
 
@@ -38,42 +28,58 @@
 
 <div align="center">
 
-### `◈ DIGITAL IDENTITY ◈`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Hi, I'm Prathmesh Tiwari.                                  │
-│                                                              │
-│  BCA student • Developer in progress • Tech enthusiast       │
-│                                                              │
-│  Currently exploring programming, Linux, web technologies    │
-│  and cybersecurity.                                          │
-│                                                              │
-│  I enjoy understanding how things work beneath the surface   │
-│  and turning that curiosity into projects, experiments       │
-│  and new skills.                                             │
-│                                                              │
-│  ──────────────────────────────────────────────────────────  │
-│                                                              │
-│  CODE  →  UNDERSTAND  →  EXPERIMENT  →  BUILD  →  EVOLVE    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+## 💠 `WHO AM I?`
 
 </div>
 
----
-
-<div align="center">
-
-### `◈ CURRENTLY EXPLORING ◈`
-
-<table>
+<table align="center">
 <tr>
-<td align="center">
+<td width="60%">
 
-💻 **PROGRAMMING**
+### 👋 Hi, This Is Prathmesh Tiwari
+
+I'm a **BCA student and technology enthusiast** who enjoys exploring how computers, software and systems work.
+
+Currently I'm learning:
+
+* 💻 **C & C++**
+* 🌐 **HTML & CSS**
+* 🐧 **Linux**
+* 🔐 **Cybersecurity**
+* 🕵️ **Ethical Hacking**
+* 🎯 **Bug Bounty**
+* 🌎 **Networking & Web Security**
+
+My goal isn't just to learn technologies.
+
+> **I want to understand what happens behind them.**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧬 `MY DIGITAL DNA`
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+
+**CODE**
 
 C
 C++
@@ -81,19 +87,23 @@ Problem Solving
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-🌐 **WEB**
+### 🌐
+
+**BUILD**
 
 HTML
 CSS
-Web Development
+Web Projects
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-🐧 **SYSTEMS**
+### 🐧
+
+**EXPLORE**
 
 Linux
 CLI
@@ -101,37 +111,40 @@ Networking
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-🛡️ **SECURITY**
+### 🛡️
+
+**SECURE**
 
 Cybersecurity
 Ethical Hacking
 Bug Bounty
 
 </td>
+
 </tr>
 </table>
 
-</div>
-
 ---
 
 <div align="center">
 
-### `◈ TECHNOLOGY MATRIX ◈`
+## ⚡ `TECH STACK`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,linux,git,github,vscode&theme=dark"/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,linux,git,github,vscode&theme=light"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/C-06152B?style=for-the-badge&logo=c&logoColor=69CFFF"/>
-<img src="https://img.shields.io/badge/C%2B%2B-06152B?style=for-the-badge&logo=cplusplus&logoColor=69CFFF"/>
-<img src="https://img.shields.io/badge/HTML5-06152B?style=for-the-badge&logo=html5&logoColor=69CFFF"/>
-<img src="https://img.shields.io/badge/CSS3-06152B?style=for-the-badge&logo=css3&logoColor=69CFFF"/>
-<img src="https://img.shields.io/badge/Linux-06152B?style=for-the-badge&logo=linux&logoColor=69CFFF"/>
-<img src="https://img.shields.io/badge/Git-06152B?style=for-the-badge&logo=git&logoColor=69CFFF"/>
-<img src="https://img.shields.io/badge/GitHub-06152B?style=for-the-badge&logo=github&logoColor=69CFFF"/>
+<img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=0284C7"/>
+<img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=0284C7"/>
+<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=0284C7"/>
+<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=0284C7"/>
+<img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=0284C7"/>
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=0284C7"/>
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0284C7"/>
 
 </div>
 
@@ -139,32 +152,32 @@ Bug Bounty
 
 <div align="center">
 
-### `◈ SYSTEM TERMINAL ◈`
+## 🎮 `INSERT COIN`
+
+### **My GitHub Is My Playground**
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2500&pause=700&color=0284C7&center=true&vCenter=true&width=700&height=60&lines=%E2%96%B6+LOADING+NEXT+PROJECT...;%E2%96%B6+BUILDING+NEW+SKILLS...;%E2%96%B6+EXPLORING+NEW+SYSTEMS...;%E2%96%B6+LEVEL+UP+IN+PROGRESS..." alt="Game Animation"/>
+
+<br/>
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│  PRATHMESH@DIGITAL-SPACE                                    │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  $ whoami                                                    │
-│  > Prathmesh Tiwari                                          │
-│                                                              │
-│  $ focus                                                     │
-│  > Software Development + Cybersecurity                      │
-│                                                              │
-│  $ learning                                                  │
-│  > C / C++ / HTML / CSS / Linux                              │
-│                                                              │
-│  $ exploring                                                 │
-│  > Ethical Hacking / Bug Bounty / Networking                 │
-│                                                              │
-│  $ mission                                                    │
-│  > Understand technology, don't just use it.                 │
-│                                                              │
-│  $ status                                                    │
-│  > ● ONLINE                                                   │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                    🎮  PLAYER 01                          ║
+║                                                            ║
+║              PRATHMESH TIWARI                              ║
+║                                                            ║
+║       ┌─────────────────────────────────────┐              ║
+║       │  CODE       ███████████████░░  80%  │              ║
+║       │  LINUX      ████████████░░░░  65%  │              ║
+║       │  WEB        █████████████░░░  70%  │              ║
+║       │  SECURITY   ████████░░░░░░░░  45%  │              ║
+║       │  CURIOSITY  ████████████████  99%  │              ║
+║       └─────────────────────────────────────┘              ║
+║                                                            ║
+║                    ★ LEVELING UP ★                         ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -173,17 +186,17 @@ Bug Bounty
 
 <div align="center">
 
-### `◈ GITHUB TELEMETRY ◈`
+## 🕹️ `GITHUB ARCADE`
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrathmeshhTiwari&show_icons=true&theme=transparent&bg_color=06152B&border_color=2E9FFF&title_color=69CFFF&icon_color=69CFFF&text_color=B9DFFF"/>
+### Watch the contribution grid come alive
 
-<br/><br/>
+<!-- Contribution Snake -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshhTiwari&layout=compact&theme=transparent&bg_color=06152B&border_color=2E9FFF&title_color=69CFFF&text_color=B9DFFF"/>
+<img src="https://raw.githubusercontent.com/PrathmeshhTiwari/PrathmeshhTiwari/output/github-contribution-grid-snake-blue.svg" alt="GitHub Contribution Snake"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=PrathmeshhTiwari&theme=transparent&background=06152B&border=2E9FFF&ring=69CFFF&fire=69CFFF&currStreakLabel=69CFFF&sideLabels=69CFFF&dates=7191AD&sideNums=B9DFFF&currStreakNum=69CFFF"/>
+<sub>🐍 Contribution Snake • Every commit becomes another move.</sub>
 
 </div>
 
@@ -191,26 +204,108 @@ Bug Bounty
 
 <div align="center">
 
-### `◈ FINAL TRANSMISSION ◈`
+## 🔬 `CURRENTLY.EXPLORING`
+
+</div>
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              "CURIOSITY CREATES DISCOVERY.                  ║
-║               CODE CREATES POSSIBILITY.                     ║
-║               KNOWLEDGE CREATES POWER."                     ║
-║                                                              ║
-║                    — PRATHMESH TIWARI                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  [01] PROGRAMMING                                           │
+│       C → C++ → Logic → Problem Solving                    │
+│                                                             │
+│  [02] WEB                                                    │
+│       HTML → CSS → Web Development                          │
+│                                                             │
+│  [03] SYSTEMS                                                │
+│       Linux → CLI → Networking → System Understanding       │
+│                                                             │
+│  [04] SECURITY                                               │
+│       Networking → Web Security → Ethical Hacking           │
+│       → Responsible Bug Bounty                               │
+│                                                             │
+│  [05] FUTURE                                                 │
+│       Software Development → Advanced Cybersecurity         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## 🧠 `TERMINAL.EXE`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=750&height=40&lines=%24+whoami;%3E+Prathmesh+Tiwari;%24+cat+mission.txt;%3E+Understand+technology.+Build.+Experiment.+Evolve." alt="Terminal Animation"/>
+
+<br/>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  USER      : PRATHMESH                                   │
+│  ROLE      : BCA STUDENT                                 │
+│  INTEREST  : TECHNOLOGY                                  │
+│  FOCUS     : DEVELOPMENT + CYBERSECURITY                 │
+│  OS        : LINUX                                       │
+│  STATUS    : ● ONLINE                                    │
+│                                                          │
+│  MISSION:                                                 │
+│  "Don't just use technology. Understand it."             │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 `PLAYER STATISTICS`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrathmeshhTiwari&show_icons=true&theme=default&bg_color=F8FCFF&border_color=7DD3FC&title_color=0284C7&icon_color=0284C7&text_color=334155"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshhTiwari&layout=compact&theme=default&bg_color=F8FCFF&border_color=7DD3FC&title_color=0284C7&text_color=334155"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=PrathmeshhTiwari&theme=default&background=F8FCFF&border=7DD3FC&ring=0284C7&fire=38BDF8&currStreakLabel=0284C7&sideLabels=0284C7&dates=64748B&sideNums=334155&currStreakNum=0284C7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 `MY PHILOSOPHY`
+
+<br/>
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│       "STAY CURIOUS.                                      │
+│        KEEP BUILDING.                                     │
+│        BREAK THE LIMITS.                                  │
+│        UNDERSTAND THE SYSTEM.                             │
+│        LEVEL UP EVERY DAY."                               │
+│                                                            │
+│                  — PRATHMESH TIWARI                        │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 <br/>
 
-`BUILD • BREAK • UNDERSTAND • IMPROVE`
+### `CODE  •  PLAY  •  EXPLORE  •  BUILD  •  EVOLVE`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2A5E,50:071A3D,100:020617&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:70C7FF,50:BFE8FF,100:EEF8FF&height=100&section=footer" width="100%"/>
 
 </div>
