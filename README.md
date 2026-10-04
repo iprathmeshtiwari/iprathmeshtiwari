@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a4c4e,50:BFE8FF,100:70C7FF&height=220&section=header&text=PRATHMESH%20TIWARI&fontSize=58&fontColor=075985&fontAlignY=40&desc=CODE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20GAMING&descAlignY=64&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a4c4e,50: #006eab,100:70C7FF&height=220&section=header&text=PRATHMESH%20TIWARI&fontSize=58&fontColor=075985&fontAlignY=40&desc=CODE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20GAMING&descAlignY=64&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -292,6 +292,6 @@ Bug Bounty
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:70C7FF,50:BFE8FF,100:4a4c4e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:70C7FF,50: #006eab,100:4a4c4e&height=100&section=footer" width="100%"/>
 
 </div>
