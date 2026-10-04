@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a4c4e,50: #006eab,100:70C7FF&height=220&section=header&text=PRATHMESH%20TIWARI&fontSize=58&fontColor=075985&fontAlignY=40&desc=CODE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20GAMING&descAlignY=64&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEF8FF,50:BFE8FF,100:70C7FF&height=220&section=header&text=PRATHMESH%20TIWARI&fontSize=58&fontColor=075985&fontAlignY=40&desc=CODE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20GAMING&descAlignY=64&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -186,6 +186,20 @@ Bug Bounty
 
 <div align="center">
 
+## 🕹️ `GITHUB ARCADE`
+
+### Watch the contribution grid come alive
+
+<!-- Contribution Snake -->
+
+<img src="https://raw.githubusercontent.com/PrathmeshhTiwari/PrathmeshhTiwari/output/github-contribution-grid-snake-blue.svg" alt="GitHub Contribution Snake"/>
+
+<br/>
+
+<sub>🐍 Contribution Snake • Every commit becomes another move.</sub>
+
+</div>
+
 ---
 
 <div align="center">
@@ -292,6 +306,6 @@ Bug Bounty
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:70C7FF,50: #006eab,100:4a4c4e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B1F3A,100:123A63&height=100&section=footer" width="100%"/>
 
 </div>
