@@ -186,20 +186,6 @@ Bug Bounty
 
 <div align="center">
 
-## 🕹️ `GITHUB ARCADE`
-
-### Watch the contribution grid come alive
-
-<!-- Contribution Snake -->
-
-<img src="https://raw.githubusercontent.com/PrathmeshhTiwari/PrathmeshhTiwari/output/github-contribution-grid-snake-blue.svg" alt="GitHub Contribution Snake"/>
-
-<br/>
-
-<sub>🐍 Contribution Snake • Every commit becomes another move.</sub>
-
-</div>
-
 ---
 
 <div align="center">
