@@ -1,4 +1,16 @@
-# 💫 About Me:
+⚡ Hi, This Is Prathmesh Tiwari 👋
+
+💻 BCA Student | Tech Enthusiast
+🚀 Aspiring Software Developer
+⚙️ Learning C • C++ • HTML • CSS
+🐧 Linux Enthusiast | Cybersecurity Explorer
+🔐 Ethical Hacking | Bug Bounty Hunter in the Making
+
+🧠 Obsessed with Technology, Driven by Curiosity.
+⌨️ Turning Ideas into Code & Challenges into Opportunities.
+🌌 Exploring the Digital World, One Line at a Time.
+
+「 Learn. Build. Break. Secure. Repeat. 」# 💫 About Me:
 ⚡ BCA Student | Developer in the Making<br>💻 C • C++ • HTML • CSS<br>🐧 Linux Enthusiast | Ethical Hacking<br>🔐 Exploring Cybersecurity & Bug Bounty<br>🧠 Turning Curiosity into Code.<br>🚀 Building Beyond Boundaries.
 
 
