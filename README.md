@@ -1,29 +1,26 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=PRATHMESH&fontSize=80&fontColor=00ff41&fontAlignY=38&desc=Prathmesh%20Tiwari%20%E2%80%94%20Tech%20Enthusiast%20%7C%20Developer%20%7C%20Cybersecurity%20Learner&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<!--                    PRATHMESH TIWARI                         -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,45:102A56,75:4DA6FF,100:050A18&height=230&section=header&text=PRATHMESH%20TIWARI&fontSize=55&fontColor=8CCBFF&fontAlignY=38&desc=CODE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20CURIOSITY&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- PROFILE PIC -->
-
-<img src="https://github.com/PrathmeshhTiwari.png" width="130" style="border-radius:50%;border:3px solid #00ff41;" alt="Prathmesh Tiwari"/>
+<img src="https://github.com/PrathmeshhTiwari.png" width="145" alt="Prathmesh Tiwari"/>
 
 <br/><br/>
 
-<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=69BFFF&center=true&vCenter=true&multiline=true&width=850&height=90&lines=BCA+Student+%7C+Tech+Enthusiast;C+%7C+C%2B%2B+%7C+HTML+%7C+CSS+%7C+Linux;Exploring+Cybersecurity+%7C+Ethical+Hacking+%7C+Bug+Bounty;Turning+Curiosity+Into+Code." alt="Typing Animation"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=80&lines=BCA+Student+%7C+Developer+in+Progress;C+%7C+C%2B%2B+%7C+HTML+%7C+CSS;Linux+%7C+Cybersecurity+%7C+Bug+Bounty+Learner;Learn.+Build.+Break.+Secure.+Repeat." alt="Typing SVG" />
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- PROFILE BADGES -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=PrathmeshhTiwari\&color=00ff41\&style=for-the-badge\&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/PrathmeshhTiwari?style=for-the-badge\&color=00ff41\&labelColor=0d0d0d\&label=FOLLOWERS)
+<img src="https://komarev.com/ghpvc/?username=PrathmeshhTiwari&color=4DA6FF&style=for-the-badge&label=VISITORS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/PrathmeshhTiwari?style=for-the-badge&color=4DA6FF&labelColor=050A18&label=FOLLOWERS"/>
 
 </div>
 
@@ -31,57 +28,70 @@
 
 <div align="center">
 
-### `whoami`
+## `01 / IDENTITY`
 
 </div>
 
-```bash
-┌──(prathmesh㉿linux)-[~/]
-└─$ cat profile.txt
-
-  NAME       : Prathmesh Tiwari
-  ROLE       : BCA Student | Tech Enthusiast
-  FOCUS      : Software Development | Cybersecurity
-  LEARNING   : C | C++ | HTML | CSS | Linux
-  INTERESTS  : Ethical Hacking | Bug Bounty | Technology
-  MINDSET    : Learn. Build. Explore. Improve.
-  STATUS     : [■■■■■■■■░░] LEARNING...
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   Hello, World!                                           │
+│                                                            │
+│   I'm Prathmesh Tiwari — a BCA student and technology     │
+│   enthusiast who enjoys understanding how things work.     │
+│                                                            │
+│   I'm currently building my foundation in programming,     │
+│   Linux, web technologies and cybersecurity.               │
+│                                                            │
+│   I don't want to simply use technology.                   │
+│   I want to understand it, experiment with it,             │
+│   build with it — and eventually break it to learn         │
+│   how to make it better.                                   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
 <div align="center">
 
-### `./current_focus --list`
+## `02 / CURRENTLY.EXPLORING`
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
 
-**`[ LEARNING ]`**
+<td width="50%" align="center">
 
-💻 C & C++ Programming
-🌐 HTML & CSS
-🐧 Linux & Command Line
-🔐 Ethical Hacking Fundamentals
-🕵️ Bug Bounty & Web Security
-🧠 Problem Solving & Computer Science
+### `DEVELOPMENT`
 
-</td>
-<td align="center" width="50%">
-
-**`[ EXPLORING ]`**
-
-🔎 Web Vulnerability Discovery
-🛡️ Cybersecurity Concepts
-🌐 Networking Fundamentals
-⚙️ Automation & Scripting
-💡 Software Development
-🚀 New Technologies
+```text
+C
+C++
+HTML
+CSS
+Problem Solving
+Software Development
+```
 
 </td>
+
+<td width="50%" align="center">
+
+### `SYSTEMS & SECURITY`
+
+```text
+Linux
+Networking
+Cybersecurity
+Ethical Hacking
+Web Security
+Bug Bounty
+```
+
+</td>
+
 </tr>
 </table>
 
@@ -89,19 +99,19 @@
 
 <div align="center">
 
-### `cat tech_stack.conf`
+## `03 / TECHNICAL UNIVERSE`
 
-</div>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,linux,git,github,vscode&theme=dark" />
 
-<div align="center">
+<br/><br/>
 
-|        Category        | Technologies                                    |
-| :--------------------: | :---------------------------------------------- |
-|      **Languages**     | `C`   `C++`                                     |
-|         **Web**        | `HTML`   `CSS`                                  |
-|         **OS**         | `Linux`                                         |
-|    **Cybersecurity**   | `Ethical Hacking`   `Bug Bounty`                |
-| **Currently Learning** | `Networking`   `Web Security`   `Cybersecurity` |
+<img src="https://img.shields.io/badge/C-071426?style=for-the-badge&logo=c&logoColor=69BFFF"/>
+<img src="https://img.shields.io/badge/C%2B%2B-071426?style=for-the-badge&logo=cplusplus&logoColor=69BFFF"/>
+<img src="https://img.shields.io/badge/HTML5-071426?style=for-the-badge&logo=html5&logoColor=69BFFF"/>
+<img src="https://img.shields.io/badge/CSS3-071426?style=for-the-badge&logo=css3&logoColor=69BFFF"/>
+<img src="https://img.shields.io/badge/Linux-071426?style=for-the-badge&logo=linux&logoColor=69BFFF"/>
+<img src="https://img.shields.io/badge/Git-071426?style=for-the-badge&logo=git&logoColor=69BFFF"/>
+<img src="https://img.shields.io/badge/GitHub-071426?style=for-the-badge&logo=github&logoColor=69BFFF"/>
 
 </div>
 
@@ -109,64 +119,181 @@
 
 <div align="center">
 
-### `./learning_pipeline`
+## `04 / LEARNING PROTOCOL`
 
 </div>
 
 ```text
-[01] Programming
-     C ─────────► C++ ─────────► Data Structures ─────────► Problem Solving
-
-[02] Web Development
-     HTML ──────► CSS ─────────► Web Development ─────────► Projects
-
-[03] Linux
-     CLI ───────► Linux Basics ───────► System Understanding ───────► Automation
-
-[04] Cybersecurity
-     Networking ──► Web Security ──► Ethical Hacking ──► Bug Bounty
-
-[05] Growth
-     Learn ─────► Build ─────► Experiment ─────► Break ─────► Understand
+                 ┌──────────────────────┐
+                 │      C / C++         │
+                 │  Logic & Programming │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │    WEB TECHNOLOGY    │
+                 │     HTML + CSS       │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │        LINUX         │
+                 │  Systems & Terminal  │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │     NETWORKING       │
+                 │  How Systems Talk    │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │    CYBERSECURITY     │
+                 │  Security Mindset    │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │     BUG BOUNTY       │
+                 │  Find • Learn • Fix  │
+                 └──────────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-### `cat mindset.txt`
+## `05 / TERMINAL`
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    [ MINDSET ]                           ║
-║                                                          ║
-║   "Don't just use technology.                           ║
-║    Understand how it works."                            ║
-║                                                          ║
-║   Curiosity → Learning → Building → Breaking →          ║
-║   Understanding → Improving                             ║
-║                                                          ║
-║                  — PRATHMESH TIWARI                      ║
-╚══════════════════════════════════════════════════════════╝
+```bash
+┌──(prathmesh@blue-shell)-[~]
+└─$ whoami
+
+Prathmesh Tiwari
+
+┌──(prathmesh@blue-shell)-[~]
+└─$ cat mission.txt
+
+> Learn how computers think.
+> Learn how software works.
+> Learn how systems communicate.
+> Learn how vulnerabilities happen.
+> Build better things.
+
+┌──(prathmesh@blue-shell)-[~]
+└─$ status
+
+[████████████████░░░░] 80% CURIOUS
+[██████████████░░░░░░] 70% BUILDING
+[████████████░░░░░░░░] 60% LEARNING
+[██████████░░░░░░░░░░] 50% EXPERIMENTING
+
+STATUS : ONLINE
+MODE   : LEARNING
 ```
 
 ---
 
 <div align="center">
 
-### `./github_activity`
+## `06 / CYBERSECURITY JOURNEY`
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**NETWORKING**
+
+Understanding how systems communicate.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐧
+
+**LINUX**
+
+Learning systems through the terminal.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡️
+
+**SECURITY**
+
+Exploring defensive & offensive concepts.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔎
+
+**BUG BOUNTY**
+
+Learning responsible vulnerability research.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `07 / PROJECT LAB`
+
+### ⚡ Where Ideas Become Experiments
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  PROJECTS                                                │
+│                                                          │
+│  ├── Web Experiments                                    │
+│  ├── C / C++ Programs                                   │
+│  ├── Linux Experiments                                  │
+│  ├── Security Learning Labs                             │
+│  ├── Automation Ideas                                   │
+│  └── Future Open Source Projects                        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+> **Building isn't about having all the answers.
+> It's about being curious enough to find them.**
+
+---
+
+<div align="center">
+
+## `08 / GITHUB TELEMETRY`
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshhTiwari\&show_icons=true\&theme=chartreuse-dark\&bg_color=0d0d0d\&border_color=00ff41\&title_color=00ff41\&icon_color=00cc33\&text_color=cccccc\&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=PrathmeshhTiwari&show_icons=true&theme=transparent&bg_color=071426&border_color=2E8BFF&title_color=69BFFF&icon_color=69BFFF&text_color=B9D9F5&hide_border=false" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshhTiwari\&layout=compact\&theme=chartreuse-dark\&bg_color=0d0d0d\&border_color=00ff41\&title_color=00ff41\&text_color=cccccc)
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshhTiwari&layout=compact&theme=transparent&bg_color=071426&border_color=2E8BFF&title_color=69BFFF&text_color=B9D9F5" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PrathmeshhTiwari\&theme=terminal\&background=0d0d0d\&border=00ff41\&ring=00ff41\&fire=00cc33\&currStreakLabel=00ff41\&sideLabels=00ff41\&dates=666666\&sideNums=cccccc\&currStreakNum=00ff41)
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=PrathmeshhTiwari&theme=transparent&background=071426&border=2E8BFF&ring=69BFFF&fire=69BFFF&currStreakLabel=69BFFF&sideLabels=69BFFF&dates=6B8AA8&sideNums=B9D9F5&currStreakNum=69BFFF"/>
 
 </div>
 
@@ -174,27 +301,24 @@
 
 <div align="center">
 
-### `echo $MISSION`
+## `09 / PHILOSOPHY`
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        BUILD WITH CODE.                                  ║
-║        THINK LIKE A HACKER.                              ║
-║        LEARN LIKE A BEGINNER.                            ║
-║        GROW LIKE AN ENGINEER.                            ║
-║                                                          ║
-║              "The journey has just begun."              ║
-║                                                          ║
-║                  — PRATHMESH TIWARI                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│             "STAY CURIOUS.                                 │
+│              KEEP BUILDING.                                │
+│              NEVER STOP EXPLORING."                        │
+│                                                            │
+│                         — PRATHMESH TIWARI                 │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
+
+### `CODE  •  LEARN  •  EXPLORE  •  EVOLVE`
 
 <br/>
 
-**⚡ Learn • Build • Explore • Secure ⚡**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,45:102A56,75:4DA6FF,100:050A18&height=130&section=footer" width="100%"/>
 
 </div>
